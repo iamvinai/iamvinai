@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Vineeth Krishna Puchalapalli
+# 👋 Hi there! I'm Vinay Tummala
 
 I'm a **Software Engineer** with 3+ years of experience designing and building scalable distributed systems, high-throughput data pipelines, and automated CI/CD infrastructures. I specialize in delivering production-ready microservices and cloud-native solutions using modern tools and best practices.
 
