@@ -80,5 +80,5 @@ I'm a **Software Engineer** with 3+ years of experience designing and building s
 
 [![Gmail](https://img.shields.io/badge/Gmail-vinaiinfo18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaiinfo18@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/puchalapalli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaytummala18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/vinaytummala18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaytummala18)
 &nbsp;
