@@ -78,9 +78,7 @@ I'm a **Software Engineer** with 3+ years of experience designing and building s
 
 ## 📫 Let's Connect & Code Together
 
-[![Gmail](https://img.shields.io/badge/Gmail-vineethkrishnapuchalapalli@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineethkrishnapuchalapalli@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-vinaiinfo18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaiinfo18@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/puchalapalli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puchalapalli)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-/puchalapalli-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/puchalapalli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/puchalapalli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaytummala18)
 &nbsp;
