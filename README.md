@@ -1,80 +1,84 @@
-# 👋 Hi there! I'm Vinay Tummala
+<div align="center">
+  <h1 align="center">Hi, I'm Vinay S T 👋</h1>
+  <h3 align="center">Software Engineer | Distributed Systems | Cloud Native</h3>
 
-I'm a **Software Engineer** with 3+ years of experience designing and building scalable distributed systems, high-throughput data pipelines, and automated CI/CD infrastructures. I specialize in delivering production-ready microservices and cloud-native solutions using modern tools and best practices.
-
----
-
-## 🛠 Technical Skills
-
-### • Languages  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-&nbsp;
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### • Frameworks  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-&nbsp;
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-&nbsp;
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
-&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### • Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-&nbsp;
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-&nbsp;
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-&nbsp;
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-&nbsp;
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### • Databases/Cloud  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-&nbsp;
-![NoSQL](https://img.shields.io/badge/NoSQL-6e5494?style=for-the-badge)
-&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-&nbsp;
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  <p align="center">
+    <a href="mailto:vinayst02@yahoo.com">
+      <img src="https://img.shields.io/badge/Email-vinayst02%40yahoo.com-D14836?style=flat-square&logo=yahoo&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/vtummala16">
+      <img src="https://img.shields.io/badge/LinkedIn-Vinay%20S%20T-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/iamvinai">
+      <img src="https://img.shields.io/badge/GitHub-iamvinai-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+  <br/>
+</div>
 
 ---
 
-## 📜 Certifications
+### 👨‍💻 About Me
 
-[![Go HackerRank](https://img.shields.io/badge/Go_by_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/3f6d37dd2525)
-&nbsp;
+I am a **Software Engineer** with **3+ years of experience** specializing in high-throughput backend systems and real-time data pipelines. I hold a **Master's in Computer Science** (4.0 GPA) from **Texas A&M University**.
 
+Currently, I am building scalable financial infrastructure at **Wells Fargo**, where I focus on:
+
+* **Processing 1M+ critical data events daily** using **Apache Flink & Kafka**.
+* **Modernizing legacy systems** into Cloud-Native Microservices on **AWS**.
+* **Enhancing Code Quality** through rigorous testing (JUnit/Mockito) and CI/CD automation.
 
 ---
 
-## 📫 Let's Connect & Code Together
+### 🚀 Technical Arsenal
 
-[![Gmail](https://img.shields.io/badge/Gmail-vinaiinfo18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaiinfo18@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/vinaytummala18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaytummala18)
-&nbsp;
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="icon" width="65" height="65" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="icon" width="65" height="65" />
+      <br>Postgres
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **Data & Streaming** | ![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Flink](https://img.shields.io/badge/-Apache_Flink-E6526F?style=flat&logo=apacheflink&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+
+---
+
+
+### 🏆 Certifications
+
+* ![HackerRank](https://img.shields.io/badge/-HackerRank_Python_(Intermediate)-2EC866?style=flat-square&logo=hackerrank&logoColor=white) **Python (Intermediate) Certificate**
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamvinai&label=Profile%20Views&color=0e75b6&style=flat" alt="iamvinai" />
+</div>
